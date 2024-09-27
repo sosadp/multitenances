@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="e16903fe-f328-4e77-9734-c5c8cf420836" name="multitenant " url="jdbc:postgresql://localhost/multitenantDB" driverClass="org.postgresql.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="e16903fe-f328-4e77-9734-c5c8cf420836" persistence-unit-name="Default" />
+    </data-source-infos>
+  </component>
+</project>
